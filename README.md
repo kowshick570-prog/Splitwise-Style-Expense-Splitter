@@ -42,8 +42,7 @@ splitwise-expense-splitter/
 │
 ├── src/
 │   └── com/
-│       └── splitwise/
-│           ├── SplitwiseApp.java       ← Main class (CLI menu)
+            ├── SplitwiseApp.java       ← Main class (CLI menu)
 │           ├── Person.java             ← Encapsulated person entity
 │           ├── Expense.java            ← Abstract base class
 │           ├── EqualExpense.java       ← Equal split (extends Expense)
