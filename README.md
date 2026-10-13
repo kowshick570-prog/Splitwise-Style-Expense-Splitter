@@ -6,7 +6,7 @@
 |---------------|----------------------------------------------|
 | **Author**    | Kowshick K                                   |
 | **Reg No**    | 711524BEE302                                 |
-| **Course**    | B.E. EEE — KIT, Coimbatore (Anna University) |
+| **Course**    | B.E. EEE — KIT, Coimbatore  
 | **Subject**   | Object-Oriented Programming using Java       |
 | **Project**   | Splitwise-Style Expense Splitter             |
 
